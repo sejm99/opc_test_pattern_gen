@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="186" viewBox="-73 -113 286 186">
+<defs>
+<style type="text/css">
+.l0d0 {stroke: #F38400; fill: #F38400; fill-opacity: 0.5;}
+.l10d0 {stroke: #F6A600; fill: #F6A600; fill-opacity: 0.5;}
+</style>
+</defs>
+<rect x="-73" y="-113" width="286" height="186" fill="#222222" stroke="none"/>
+<g id="FIRST" transform="scale(1 -1)">
+<polygon id="000002CA82C093B0" class="l10d0" points="0,0 200,0 200,100 0,100"/>
+<polygon id="000002CA82C09500" class="l0d0" points="0,0 20,20 20,60 -60,60 -60,-60 -40,-40 -40,40 0,40"/>
+</g>
+</svg>
